@@ -1,5 +1,7 @@
 # Carmageddon - Voodoo Rush video mode patch
 
+[![release](https://img.shields.io/github/v/release/Pr1ha/carmageddon-voodoo-rush-patch)](https://github.com/Pr1ha/carmageddon-voodoo-rush-patch/releases)
+
 A patch for the DOS version of **Carmageddon** (3dfx/Glide build) that removes the
 interface flicker in `-vrush` mode without bringing back the slowness of the stock
 Rush path.

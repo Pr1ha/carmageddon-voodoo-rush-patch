@@ -1,0 +1,7 @@
+# game executables - never commit
+CARMAV.EXE
+CARMAVR.EXE
+
+# build leftovers
+*.tmp
+*.bak
